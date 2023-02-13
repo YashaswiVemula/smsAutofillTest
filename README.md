@@ -1,5 +1,6 @@
 # smsAutofillTest
-Contains implementation to test Compose AutofillType smsOtpCode.
+Contains implementation to test Compose AutofillType smsOtpCode. 
+https://issuetracker.google.com/issues/268596603
 
 AutofillType for UserName, Password works fine, but AutofillType.SmsOtpCode does not work.
 
